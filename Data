@@ -1,0 +1,4 @@
+You can set up a CI/CD pipeline for your Pega Platform application using one of two methods:
+
+Use third-party tools, such as Jenkins, to start a job and perform operations on your software. For more information, see the article Continuous integration and delivery pipelines using third-party automation servers on Pega Community.
+Use Deployment Manager, where you use Pega Platform as the orchestration server that runs the pipeline, packages your application, and manages importing packages from and exporting packages to repositories that connect from one system to another.
